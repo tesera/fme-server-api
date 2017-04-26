@@ -1,6 +1,6 @@
 {
   "name": "fme-server-api",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Client library to access FME Server (http://www.safe.com/fme/fme-server/)",
   "main": "lib/fme_server_api.js",
   "directories": {
