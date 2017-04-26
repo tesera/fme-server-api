@@ -1,0 +1,19 @@
+{
+  "name": "fme-server-api",
+  "version": "0.0.0",
+  "description": "Client library to access FME Server (http://www.safe.com/fme/fme-server/)",
+  "main": "lib/fme_server_api.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive -i --fgrep '#WIP'"
+  },
+  "author": "Matt Zandstra <matt.zandstra@tesera.com> (http://tesera.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0",
+    "sinon": "^2.1.0"
+  }
+}
