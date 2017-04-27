@@ -1,6 +1,6 @@
 {
   "name": "fme-server-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Client library to access FME Server (http://www.safe.com/fme/fme-server/)",
   "main": "lib/fme_server_api.js",
   "directories": {
@@ -12,7 +12,7 @@
   "author": "Matt Zandstra <matt.zandstra@tesera.com> (http://tesera.com)",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/npm/npm.git"
+    "url" : "https://github.com/tesera/fme-server-api.git"
   },
   "license": "MIT",
   "devDependencies": {
